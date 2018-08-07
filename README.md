@@ -4,7 +4,7 @@ This project is about leveraging basic react concepts to implement
 a web application for fetching book data from a backend api and 
 maintaining selected books in different categories/shelves.
 
-## TL;DR
+## How to start
 
 To start this application:
 
